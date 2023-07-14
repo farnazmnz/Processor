@@ -1,0 +1,48 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=project
+[Library]
+Project=.\Project\Project.lib
+[$LibMap$]
+Project=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[HierarchyViewer]
+HierarchyInformation=processor_tb|testbench_for_processor|1
+ShowHide=ShowTopLevel
+Selected=
+[Files]
+/IR_Reg.vhd=-1
+/Main_Reg.vhd=-1
+/PC_Reg.vhd=-1
+/Control_Unit.vhd=-1
+/MUX21.vhd=-1
+/MUX42.vhd=-1
+/ALU.vhd=-1
+/Processor.vhd=-1
+/ROM_Memory.vhd=-1
+TestBench/processor_TB.vhd=-1
+TestBench/processor_TB_runtest.do=-1
+[Files.Data]
+.\src\IR_Reg.vhd=VHDL Source Code
+.\src\Main_Reg.vhd=VHDL Source Code
+.\src\PC_Reg.vhd=VHDL Source Code
+.\src\Control_Unit.vhd=VHDL Source Code
+.\src\MUX21.vhd=VHDL Source Code
+.\src\MUX42.vhd=VHDL Source Code
+.\src\ALU.vhd=VHDL Source Code
+.\src\Processor.vhd=VHDL Source Code
+.\src\ROM_Memory.vhd=VHDL Source Code
+.\src\TestBench\processor_TB.vhd=VHDL Test Bench
+.\src\TestBench\processor_TB_runtest.do=Macro
+[Groups]
+TestBench=1

@@ -1,0 +1,45 @@
+Active-HDL 13.0.375.8320 2023-07-03 16:18:30
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_processor
+
+
+--------------------------------------------------------------------------------------------------
+Entity       | Architecture    | Library | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------
+processor_tb | TB_ARCHITECTURE | project |      | 13.0.375.8320 (Windows64) | -O3
+Processor    | Processor       | project |      | 13.0.375.8320 (Windows64) | -O3
+Main_Reg     | Main_Reg        | project |      | 13.0.375.8320 (Windows64) | -O3
+PC_Reg       | PC_Reg          | project |      | 13.0.375.8320 (Windows64) | -O3
+IR_Reg       | IR_Reg          | project |      | 13.0.375.8320 (Windows64) | -O3
+ROM_Memory   | ROM_Memory      | project |      | 13.0.375.8320 (Windows64) | -O3
+MUX21        | MUX21           | project |      | 13.0.375.8320 (Windows64) | -O3
+MUX42        | MUX42           | project |      | 13.0.375.8320 (Windows64) | -O3
+ALU          | ALU             | project |      | 13.0.375.8320 (Windows64) | -O3
+Control_Unit | Control_Unit    | project |      | 13.0.375.8320 (Windows64) | -O3
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Configuration             | Library | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------
+testbench_for_processor        | project |      | 13.0.375.8320 (Windows64) | -O3
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Package                   | Library | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------
+standard                       | std     |      |                           | <unavailable>
+TEXTIO                         | std     |      | 13.0.375.8320 (Windows64) |  -2019
+std_logic_1164                 | ieee    |      | 13.0.375.8320 (Windows64) |  -2008
+std_logic_arith                | ieee    |      | 13.0.375.8320 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED             | ieee    |      | 13.0.375.8320 (Windows64) | <unavailable>
+NUMERIC_STD                    | ieee    |      | 13.0.375.8320 (Windows64) |  -2008
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+Library                        | Comment
+--------------------------------------------------------------------------------------------------
+ieee                           | Standard IEEE packages library
+project                        | None
+std                            | Standard VHDL library
+--------------------------------------------------------------------------------------------------

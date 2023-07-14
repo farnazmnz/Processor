@@ -1,0 +1,22 @@
+36
+~E 1 "../src/ALU.vhd" 14 ALU
+~A 1 "../src/ALU.vhd" 23 ALU
+~E 1 "../src/Control_Unit.vhd" 13 Control_Unit
+~A 1 "../src/Control_Unit.vhd" 36 Control_Unit
+~E 1 "../src/IR_Reg.vhd" 11 IR_Reg
+~A 1 "../src/IR_Reg.vhd" 22 IR_Reg
+~E 1 "../src/Main_Reg.vhd" 10 Main_Reg
+~A 1 "../src/Main_Reg.vhd" 22 Main_Reg
+~E 1 "../src/MUX21.vhd" 28 MUX21
+~A 1 "../src/MUX21.vhd" 25 MUX21
+~E 1 "../src/MUX42.vhd" 28 MUX42
+~A 1 "../src/MUX42.vhd" 38 MUX42
+~E 1 "../src/PC_Reg.vhd" 13 PC_Reg
+~A 1 "../src/PC_Reg.vhd" 26 PC_Reg
+~E 1 "../src/Processor.vhd" 10 Processor
+~A 1 "../src/Processor.vhd" 21 Processor
+~E 1 "../src/TestBench/processor_TB.vhd" 6 processor_tb
+~A 1 "../src/TestBench/processor_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "../src/ROM_Memory.vhd" 12 ROM_Memory
+~A 1 "../src/ROM_Memory.vhd" 20 ROM_Memory
+~C 1 "../src/TestBench/processor_TB.vhd" 52 testbench_for_processor

@@ -1,0 +1,21 @@
+[Files List]
+E:\Active-HDL\vlib\std/src/standard.vhd=S
+E:\Active-HDL\vlib\std/src/textio.vhd=S
+E:\Active-HDL\vlib\ieee/src/std_logic_1164.vhdl=S
+E:\Active-HDL\vlib\ieee/src/std_logic_1164-body.vhdl=S
+E:\Active-HDL\vlib\ieee/src/arith_p.vhd=S
+E:\Active-HDL\vlib\ieee/src/arith_b.vhd=S
+E:\Active-HDL\vlib\ieee/src/unsigned_p.vhd=S
+E:\Active-HDL\vlib\ieee/src/unsigned_b.vhd=S
+E:\Active-HDL\vlib\ieee/src/numeric_std.vhdl=S
+E:\Active-HDL\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/Control_Unit.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/ALU.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/MUX42.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/MUX21.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/ROM_Memory.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/IR_Reg.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/PC_Reg.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/Main_Reg.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/Processor.vhd=S
+C:\Users\user\Pictures\Screenshots\CoDesign\Project/src/TestBench/processor_TB.vhd=S
